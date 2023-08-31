@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamesqquick/VS-Code-Snippet-Generator.git"
+    "url": "ghttps://github.com/Anas-Aslam-24/VSC_Snippets_Generator"
   },
   "keywords": [
     "VS",
@@ -26,10 +26,10 @@
     "Flexbox",
     "HTML5"
   ],
-  "author": "James Q Quick",
+  "author": "ANAS ASLAM",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jamesqquick/VS-Code-Snippet-Generator/issues"
+    "url": "https://github.com/Anas-Aslam-24/VSC_Snippets_Generator"
   },
-  "homepage": "https://github.com/jamesqquick/VS-Code-Snippet-Generator#readme"
+  "homepage": "https://github.com/Anas-Aslam-24/VSC_Snippets_Generator#readme"
 }
